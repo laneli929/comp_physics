@@ -1,5 +1,5 @@
  # Classification of asteroids using machine learning
- We present an accelerated celestial object classification system combining Locality-Sensitive Hashing with k-Nearest Neighbors (LSH+kNN) and active learning for hyperparameter optimization. 
+ We employ a Locality-Sensitive Hashing accelerated k-Nearest Neighbors (LSH+kNN) model to achieve efficient celestial object classification, complemented by an active learning framework for automated hyperparameter optimization.
  
    
  Authorship Contributions:    
