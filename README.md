@@ -22,4 +22,4 @@ Dataset: [Star Dataset on Kaggle](https://www.kaggle.com/datasets/deepu1109/star
 ✅ **Active Learning** for hyperparameter tuning  
 ✅ Clean dataset preprocessing  
 
-*(Note: Replace `pre.pdf` with the actual path if stored in the repo.)*  
+
